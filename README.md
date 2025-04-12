@@ -45,6 +45,8 @@ This is a simple web-based Disease Prediction App frontend designed using HTML, 
 
 ## Sample Screenshot
 *(Add your screenshot here if needed)*
+![image](https://github.com/user-attachments/assets/2eea349a-8638-4e25-856d-62325b047feb)
+
 
 ---
 
